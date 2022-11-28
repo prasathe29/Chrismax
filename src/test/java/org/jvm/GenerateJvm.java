@@ -18,5 +18,6 @@ public class GenerateJvm {
 		l.add(jsonfilepath);
 		ReportBuilder r = new ReportBuilder(l, c);
 		r.generateReports();
+		System.out.println(l);
 	}
 }
