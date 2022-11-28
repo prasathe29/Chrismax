@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="12.536432">
+<testcase classname="Title of your feature" name="Title of your scenario" time="12.536432">
+<system-out><![CDATA[Given I want to write a step with precondition..............................passed
+And some other precondition.................................................passed
+When click logine button....................................................passed
+And check more outcomes with date...........................................passed
+]]></system-out>
+</testcase>
+</testsuite>

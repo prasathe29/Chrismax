@@ -1,0 +1,71 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 6,
+        "name": "Title of your scenario",
+        "description": "",
+        "id": "title-of-your-feature;title-of-your-scenario",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 36454400,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I want to write a step with precondition",
+            "match": {
+              "location": "Life.i_want_to_write_a_step_with_precondition()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 11939980500,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "some other precondition",
+            "match": {
+              "location": "Life.some_other_precondition()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 125270700,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "click logine button",
+            "match": {
+              "location": "Life.click_logine_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 428369000,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "check more outcomes with date",
+            "match": {
+              "location": "Life.check_more_outcomes_with_date()"
+            },
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "Title of your feature",
+    "description": "  I want to use this template for my feature file",
+    "id": "title-of-your-feature",
+    "keyword": "Feature",
+    "uri": "src/test/resources/Life123.feature",
+    "tags": []
+  }
+]
